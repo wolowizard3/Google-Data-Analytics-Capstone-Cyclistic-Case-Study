@@ -52,7 +52,7 @@ Following are the procedures we followed to prepare the data for analysis:
 10.	Adding day_of_week column
 11.	Checking if there are duplicate row before we analyze the data
 
-[Data Analysis Documentation]([https://www.google.com](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01_Data_Process.sql)
+[Data Analysis Documentation][https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01_Data_Process.sql]
 
 ## Analyze
 
