@@ -65,5 +65,10 @@ Following are the procedures we followed for data analysis:
 5. Analysis to determine the mean distance traveled by members and casual riders. To compute for distance, we use Haversine formula.
 
 ## Share
+
+After conducting the analysis and gaining some understanding of the data, we will next create visualizations to present our findings. We were reminded by Moreno that it needs to be sophisticated and polished in order to interact with the executive team.
+
+
+
 ## Act
 
