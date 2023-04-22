@@ -52,9 +52,6 @@ Following are the procedures we followed to prepare the data for analysis:
 10.	Adding day_of_week column
 11.	Checking if there are duplicate row before we analyze the data
 
-[Data process Documentation](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01_Data_Process.sql)
-
-
 ## Analyze
 
 Now that the data is stored appropriately and has been prepared for analysis. We will conduct a descriptive analysis.
@@ -76,4 +73,11 @@ After conducting the analysis and gaining some understanding of the data, we wil
 ## Act
 
 We've completed our visualizations, and now it's time to put your results into practice. In addition to the three top recommendations derived from our study, we will generate the deliverables Morena requested us to produce.
+
+
+
+
+[Data process Documentation](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01_Data_Process.sql)
+
+[Data analysis documentation](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02_Data_Analysis.sql)
 
