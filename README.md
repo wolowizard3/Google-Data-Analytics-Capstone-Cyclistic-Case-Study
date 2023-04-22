@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Cyclistic bike-share analysis case study! In this case study, we will perform many real-world tasks of a junior data analyst. We will work for a ﬁctional company, Cyclistic, and meet diﬀerent characters and team members. In order to answer the key business questions, we will follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act.
+Welcome to the Cyclistic bike-share analysis case study! In this case study, we will perform many real-world tasks of a junior data analyst. We will work for a ﬁctional company, Cyclistic, and meet diﬀerent characters and team members. In order to answer the key business questions, we will follow the steps of the data analysis process: [Ask](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#ask), [Prepare](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#prepare), [Process](#emphasis), [Analyze](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#analyze), [Share](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#share), and [Act](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#act).
 
 ## About the company
 
@@ -88,8 +88,8 @@ We've completed our visualizations, and now it's time to put your results into p
 
 
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+[Share](#headers)  
+[Ask](#emphasis)   
 ...snip...    
 <a name="headers"/>
 ## Headers
