@@ -38,6 +38,12 @@ Business Task: Recommend marketing strategies aimed at converting casual riders 
 
 We will use Cyclistic’s historical trip data to analyze and identify trends. We will Download and use the previous 12 months of Cyclistic trip from January 2021 to December 2021 data in the link: https://divvy-tripdata.s3.amazonaws.com/index.html. Note that the datasets have a diﬀerent name because Cyclistic is a ﬁctional company. For the purposes of this case study, the datasets are appropriate and will enable us to answer the business questions. The data has been made available by Motivate International Inc. under this license. This is public data that we can use to explore how diﬀerent customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identiﬁable information.
 
+
+
+## Process
+
+Since the data exceeds the free BigQuery sandbox limit, we will load the dataset into MYSQL Workbench to utilize SQL. Power BI Desktop was used to generate an interactive visualization or a dashboard.
+
 Following are the procedures we followed to prepare the data for analysis:
 
 1.	Creating a database for this project
@@ -51,8 +57,6 @@ Following are the procedures we followed to prepare the data for analysis:
 9.	Adding values to ride_length
 10.	Adding day_of_week column
 11.	Checking if there are duplicate row before we analyze the data
-
-## Process
 
 ## Analyze
 
