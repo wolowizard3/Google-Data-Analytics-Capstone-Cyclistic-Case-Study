@@ -78,6 +78,9 @@ SQL Query: [Data analysis](https://github.com/wolowizard3/Google-Data-Analytics-
 
 After conducting the analysis and gaining some understanding of the data, we will next create visualizations to present our findings. We were reminded by Moreno that it needs to be sophisticated and polished in order to interact with the executive team.
 
+Dashboard: 
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Untitled_001.jpg "Logo Title Text 1")
+
 
 
 ## Act
