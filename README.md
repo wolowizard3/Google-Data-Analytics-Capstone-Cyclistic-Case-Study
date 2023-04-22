@@ -46,6 +46,8 @@ Since the data exceeds the free BigQuery sandbox limit, we will load the dataset
 
 Following are the procedures we followed to prepare the data for analysis:
 
+SQL Query: [Data process](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01_Data_Process.sql)
+
 1.	Creating a database for this project
 2.	Creating a table for the 12 CSV file from January 2021 to December 2021 and another table where we will merge the files and we will name the table public_bike.
 3.	Importing for CSV file to MYSQL Workbench.
@@ -64,6 +66,8 @@ Now that the data is stored appropriately and has been prepared for analysis. We
 
 Following are the procedures we followed for data analysis:
 
+SQL Query: [Data analysis](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02_Data_Analysis.sql)
+
 1. Descriptive analysis on ride_length mean, median, max and min ride.
 2. Analysis to see the average ride time by each day for member and casual users
 3. Analysis of rider statistics by kind, weekday, number of rides and average duration
@@ -80,11 +84,5 @@ After conducting the analysis and gaining some understanding of the data, we wil
 
 We've completed our visualizations, and now it's time to put your results into practice. In addition to the three top recommendations derived from our study, we will generate the deliverables Morena requested us to produce.
 
-
-
-
-[Data process Documentation](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01_Data_Process.sql)
-
-[Data analysis documentation](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02_Data_Analysis.sql)
 
 
