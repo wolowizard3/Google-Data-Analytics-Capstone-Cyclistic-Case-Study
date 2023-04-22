@@ -35,3 +35,18 @@ Business Task: Recommend marketing strategies aimed at converting casual riders 
 
 We will use Cyclistic’s historical trip data to analyze and identify trends. We will Download and use the previous 12 months of Cyclistic trip from January 2021 to December 2021 data in the link: https://divvy-tripdata.s3.amazonaws.com/index.html. Note that the datasets have a diﬀerent name because Cyclistic is a ﬁctional company. For the purposes of this case study, the datasets are appropriate and will enable us to answer the business questions. The data has been made available by Motivate International Inc. under this license. This is public data that we can use to explore how diﬀerent customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identiﬁable information.
 
+Following are the procedures we followed to prepare the data for analysis:
+
+1.	Creating a database for this project
+2.	Creating a table for the 12 CSV file from January 2021 to December 2021 and another table where we will merge the files and we will name the table public_bike.
+3.	Importing for CSV file to MYSQL Workbench.
+4.	Check the rows to make sure we imported the exact number of data
+5.	Merging the 12 tables into one table
+6.	Check the rows to make sure we merged the exact number of data
+7.	Create a Column for ride length
+8.	Deleting the negative values of time difference between started_at and ended_at so that we can add the values in the ride_lenght in order to avoid errors
+9.	Adding values to ride_length
+10.	Adding day_of_week column
+11.	Checking if there are duplicate row before we analyze the data
+
+## Analyze
