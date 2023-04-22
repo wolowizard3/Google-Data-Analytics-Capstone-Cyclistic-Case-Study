@@ -52,6 +52,8 @@ Following are the procedures we followed to prepare the data for analysis:
 10.	Adding day_of_week column
 11.	Checking if there are duplicate row before we analyze the data
 
+[I'm an inline-style link](https://www.google.com)
+
 ## Analyze
 
 Now that the data is stored appropriately and has been prepared for analysis. We will conduct a descriptive analysis.
