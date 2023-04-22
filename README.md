@@ -82,10 +82,8 @@ We've completed our visualizations, and now it's time to put your results into p
 [Data analysis documentation](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02_Data_Analysis.sql)
 
 
-##### Table of Contents  
-[Act](#headers)  
+ 
+[Share](#headers)  
 [Act](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+
 
