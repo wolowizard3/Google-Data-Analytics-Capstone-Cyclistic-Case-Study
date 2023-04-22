@@ -55,10 +55,15 @@ Following are the procedures we followed to prepare the data for analysis:
 ## Analyze
 
 Now that the data is stored appropriately and has been prepared for analysis. We will conduct a descriptive analysis.
+
 Descriptive analysis on ride_length mean, median, max and min ride.
+
 Analysis to see the average ride time by each day for member and casual users
+
 Analysis of rider statistics by kind, weekday, number of rides and average duration
+
 To identify which month is the busiest
+
 To determine the mean distance traveled by members and casual riders. To compute for distance, we use Haversine formula.
 
 ## Share
