@@ -312,4 +312,4 @@ FROM public_bike
 GROUP BY ride_id, rideable_type, started_at, ended_at, ride_length, day_of_week, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, member_casual
 HAVING COUNT(*) > 1;
 
--- Now the data is ready to analyze.
+-- Now the data is ready for analysis.
