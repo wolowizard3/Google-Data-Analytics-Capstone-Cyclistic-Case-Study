@@ -131,7 +131,7 @@ Average ride distance:
 
 ## Act
 
-We've completed our visualizations, and now it's time to put your results into practice. In addition to the three top recommendations derived from our study, we will generate the deliverables Morena requested us to produce.
+We've completed our visualizations, and now it's time to put our results into practice. In addition to the three top recommendations derived from our study, we will generate the deliverables Morena requested us to produce.
 
 To recommend effective marketing strategies aimed at converting casual riders into annual members, it is important to understand the key differences in how members and casual riders use Cyclistic bikes. Based on the given data, here are three marketing strategies that Cyclistic could implement to convert casual riders into annual members:
 
