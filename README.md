@@ -78,8 +78,46 @@ SQL Query: [Data analysis](https://github.com/wolowizard3/Google-Data-Analytics-
 
 After conducting the analysis and gaining some understanding of the data, we will next create visualizations to present our findings. We were reminded by Moreno that it needs to be sophisticated and polished in order to interact with the executive team.
 
+Data Visualization: [Power BI](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/GDA_Cyclistic_Case_Study_Visualization.pbit)
+
 Dashboard: 
+
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Untitled_001.jpg "Logo Title Text 1")
+
+Comparison between Member and Casual user:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Member%20Vs.%20Casual%20Rider.PNG)
+
+Comparison of rides by bike type:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Rides%20by%20bike%20type.PNG)
+
+Rides by Day:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Rides%20by%20day.PNG)
+
+Rides by Month:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Rides%20by%20month.PNG)
+
+Average ride:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Average%20Rides%20in%20Minutes.PNG)
+
+Median ride:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Median%20in%20Minutes.PNG)
+
+Max ride:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Max%20ride%20in%20Days.PNG)
+
+Average ride distance:
+
+![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Average%20Distance%20in%20Kilometer.PNG)
+
+
+
 
 
 
