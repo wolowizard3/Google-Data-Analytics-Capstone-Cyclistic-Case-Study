@@ -84,11 +84,11 @@ Dashboard:
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Untitled_001.jpg "Logo Title Text 1")
 
-Comparison between Member and Casual user:
+Comparison between Member and Casual user: Total Count of member_casual was higher for member (3,065,746) than casual (2,528,664).
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Member%20Vs.%20Casual%20Rider.PNG)
 
-Comparison of rides by bike type:
+Comparison of rides by bike type: classic bike had the highest total Count of member and casual users at 3,250,746, followed by electric bike at 2,031,329 and docked bike at 312,335.  Count of member and casual user and total Count of ride type are positively correlated with each other. member in ride type made up 35.47% of Count of member and casual users.  classic bike had the highest average Count of member and casual users  at 1,625,373, followed by electric bike at 1,015,664.50 and docked_bike at 156,167.50.  
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Rides%20by%20bike%20type.PNG)
 
