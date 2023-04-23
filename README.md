@@ -84,7 +84,7 @@ Dashboard:
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Untitled_001.jpg "Logo Title Text 1")
 
-Comparison between Member and Casual user: Total Count of member_casual was higher for member (3,065,746) than casual (2,528,664).
+Comparison between Member and Casual user: Total Count of member and casual user was higher for member (3,065,746) than casual (2,528,664).
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Member%20Vs.%20Casual%20Rider.PNG)
 
