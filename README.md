@@ -133,5 +133,18 @@ Average ride distance:
 
 We've completed our visualizations, and now it's time to put your results into practice. In addition to the three top recommendations derived from our study, we will generate the deliverables Morena requested us to produce.
 
+To recommend effective marketing strategies aimed at converting casual riders into annual members, it is important to understand the key differences in how annual members and casual riders use Cyclistic bikes. Based on the given data, here are some insights and recommendations:
+
+Usage patterns: Annual members are more frequent users of Cyclistic bikes, with higher average counts on all days of the week. On Saturdays, which is the most popular day for both member and casual users, the average count for members is higher than for casual users. This suggests that annual members are more likely to use Cyclistic bikes for regular commuting or other regular activities, while casual riders may be more likely to use them for leisure or occasional activities. To convert casual riders into annual members, Cyclistic could consider promoting the benefits of using bikes for regular transportation, such as cost savings, environmental benefits, and health benefits.
+
+Ride types: Classic bikes are the most popular ride type for both annual members and casual riders, followed by electric bikes and docked bikes. However, annual members make up a higher percentage of users for all ride types, suggesting that they are more committed to using Cyclistic bikes for a variety of purposes. Cyclistic could consider offering promotions or discounts on ride types that are particularly popular with casual riders, such as electric bikes, to encourage them to become annual members.
+
+Seasonal trends: Both annual members and casual riders are most active in July, and annual members have a higher average count than casual riders throughout the year. However, the difference in counts between annual members and casual riders is greatest in November. This suggests that casual riders may be less likely to use Cyclistic bikes in colder weather, while annual members may be more committed to using them year-round. Cyclistic could consider offering promotions or incentives to encourage casual riders to use bikes during the colder months, such as discounts on winter gear or free rides for a certain number of days.
+
+User demographics: The given data does not provide information on user demographics, but understanding the characteristics of Cyclistic's user base could be important in developing targeted marketing strategies. For example, if Cyclistic's user base is predominantly young professionals, the marketing message could focus on the convenience and cost savings of using bikes for commuting. If the user base is more diverse, the marketing message could highlight the health benefits and accessibility of using bikes for a variety of activities.
+
+In summary, to convert casual riders into annual members, Cyclistic could consider promoting the benefits of using bikes for regular transportation, offering promotions or discounts on popular ride types, offering incentives to use bikes year-round, and developing targeted marketing messages based on user demographics. By better understanding the differences in how annual members and casual riders use Cyclistic bikes, Cyclistic can develop effective marketing strategies to encourage more casual riders to become loyal annual members.
+
+
 
 
