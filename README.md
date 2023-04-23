@@ -141,6 +141,14 @@ To recommend effective marketing strategies aimed at converting casual riders in
 
 3. Offer exclusive benefits to annual members: Cyclistic could incentivize casual riders to become annual members by offering them exclusive benefits that they can't access as casual riders. For example, they could offer members early access to new bike stations or discounts on bike accessories. This would make casual riders feel like they are missing out on something valuable and encourage them to upgrade to an annual membership.
 
+In terms of digital media tactics, here are some suggestions:
+
+1. Use social media advertising: Target potential members on social media platforms, such as Facebook and Instagram, with ads highlighting the benefits of being a member. Use targeted messaging based on user demographics and behavior, such as ads highlighting convenience and flexibility for weekday riders.
+
+2. Develop a mobile app: Develop a mobile app that makes it easy for members to find and reserve bikes, track their rides, and access exclusive member benefits. Use push notifications to remind members of upcoming promotions or discounts.
+
+3. Leverage email marketing: Use email marketing to promote special promotions or discounts to potential members. Use targeted messaging based on user behavior, such as sending a discount code to a casual user who has taken multiple rides in a short period of time. Highlight the benefits of being a member, such as the ability to take longer rides and access more bikes.
+
 Overall, by implementing these strategies, Cyclistic could increase the conversion rate of casual riders into annual members and drive more revenue for the company.
 
 
