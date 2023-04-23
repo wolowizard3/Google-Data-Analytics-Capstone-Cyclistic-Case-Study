@@ -84,19 +84,19 @@ Dashboard:
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Untitled_001.jpg "Logo Title Text 1")
 
-Comparison between Member and Casual user: Total Count of member and casual user was higher for member (3,065,746) than casual (2,528,664).
+Comparison between Member and Casual user: There were more member users (3,065,746) than casual users (2,528,664). member made up 54.80% of the total number of users.
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Member%20Vs.%20Casual%20Rider.PNG)
 
-Comparison of rides by bike type: classic bike had the highest total Count of member and casual users at 3,250,746, followed by electric bike at 2,031,329 and docked bike at 312,335.  Count of member and casual user and total Count of ride type are positively correlated with each other. member in ride type made up 35.47% of Count of member and casual users.  classic bike had the highest average Count of member and casual users  at 1,625,373, followed by electric bike at 1,015,664.50 and docked_bike at 156,167.50.  
+Comparison of rides by bike type: Classic bike had the highest total Count at 3,250,746, followed by electric bike at 2,031,329 and docked bike at 312,335. Count of member and casual users and total Count of ride type are positively correlated with each other. member user in ride type  made up 35.47%. classic bike had the highest average Count at 1,625,373, followed by electric bike at 1,015,664.50 and docked bike at 156,167.50. 
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Rides%20by%20bike%20type.PNG)
 
-Rides by Day:
+Rides by Day: Saturday is the most popular day for both members and casual users, with a larger average user count for members (437,963.71) than casual (361,237.71). On Wednesday, the difference between member and casual users was the greatest, with member outnumbering casual users by 198,207.
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Rides%20by%20day.PNG)
 
-Rides by Month:
+Rides by Month: July  accounted for 7.90% of the total count in member and casual users. Member users had a higher average count of 255,478.83 than casual users (210,722). The count of both users deviated the greatest in November, when member users was 146,076 more than casual  users.
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Rides%20by%20month.PNG)
 
