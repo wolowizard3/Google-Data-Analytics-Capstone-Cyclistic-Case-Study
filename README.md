@@ -78,7 +78,7 @@ SQL Query: [Data analysis](https://github.com/wolowizard3/Google-Data-Analytics-
 
 After conducting the analysis and gaining some understanding of the data, we will next create visualizations to present our findings. We were reminded by Moreno that it needs to be sophisticated and polished in order to interact with the executive team.
 
-Data Visualization: [Power BI](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/GDA_Cyclistic_Case_Study_Visualization.pbit)
+Data Visualization: [Power BI](https://drive.google.com/drive/folders/1_kt9xia3SOo39rTAZfrl-9IS0iGCEL6E)
 
 Dashboard: 
 
