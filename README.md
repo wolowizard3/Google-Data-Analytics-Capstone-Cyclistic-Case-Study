@@ -86,7 +86,7 @@ Dashboard:
 
 Comparison between Member and Casual user: 
 
-There were more member users (3,065,746) than casual users (2,528,664). member made up 54.80% of the total number of users.
+There were more member users (3,065,746) than casual users (2,528,664). member users are made up of 54.80% of the total number of users.
 
 ![alt text](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03_Data_Visualization/Member%20Vs.%20Casual%20Rider.PNG)
 
