@@ -69,10 +69,10 @@ Following are the procedures we followed for data analysis:
 SQL Query: [Data analysis](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02_Data_Analysis.sql)
 
 1. Descriptive analysis on ride_length mean, median, max and min ride.
-2. Analysis to see the average ride time by each day for member and casual users
-3. Analysis of rider statistics by kind, weekday, number of rides and average duration
-4. Analysis to identify which month is the busiest
-5. Analysis to determine the mean distance traveled by members and casual riders. To compute for distance, we use Haversine formula.
+2. Descriptive analysis to see the average ride time by each day for member and casual users
+3. Descriptive analysis of rider statistics by kind, weekday, number of rides and average duration
+4. Descriptive analysis to identify which month is the busiest
+5. Descriptive analysis to determine the mean distance traveled by members and casual riders. To compute for distance, we use Haversine formula.
 
 ## Share
 
