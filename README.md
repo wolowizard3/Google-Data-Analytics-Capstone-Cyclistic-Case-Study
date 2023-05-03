@@ -50,7 +50,7 @@ SQL Query: [Data process](https://github.com/wolowizard3/Google-Data-Analytics-C
 
 1.	Creating a database for this project
 2.	Creating a table for the 12 CSV file from January 2021 to December 2021 and another table where we will merge the files and we will name the table public_bike.
-3.	Importing for CSV file to MYSQL Workbench.
+3.	Importing for CSV file to MySQL Workbench.
 4.	Check the rows to make sure we imported the exact number of data
 5.	Merging the 12 tables into one table
 6.	Check the rows to make sure we merged the exact number of data
