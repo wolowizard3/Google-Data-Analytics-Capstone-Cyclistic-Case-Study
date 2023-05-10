@@ -1,7 +1,5 @@
 # Google Data Analytics Capstone Cyclistic Case Study
 
-Completed Google's Data Analytics Capstone: Cyclistic Case Study, using real-world data to provide insights & recommendations to increase ridership for a bike-sharing company. Applied skills in MySQL Workbench & Power BI, developed data analytics expertise and learned how to work in a data-driven business environment.
-
 ## Introduction
 
 Welcome to the Cyclistic bike-share analysis case study! In this case study, we will perform many real-world tasks of a junior data analyst. We will work for a ﬁctional company, Cyclistic, and meet diﬀerent characters and team members. In order to answer the key business questions, we will follow the steps of the data analysis process: [Ask](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#ask), [Prepare](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#prepare), [Process](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/edit/main/README.md#process), [Analyze](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#analyze), [Share](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#share), and [Act](https://github.com/wolowizard3/Google-Data-Analytics-Capstone-Cyclistic-Case-Study#act).
