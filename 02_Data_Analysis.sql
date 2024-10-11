@@ -104,3 +104,6 @@ SELECT
     ROUND(AVG(distance_km), 2) AS ave_distance_km
 FROM distance
 GROUP BY member_casual;
+
+
+--test to publish branch
