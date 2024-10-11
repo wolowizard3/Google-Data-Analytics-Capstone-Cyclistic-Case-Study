@@ -313,4 +313,3 @@ GROUP BY ride_id, rideable_type, started_at, ended_at, ride_length, day_of_week,
 HAVING COUNT(*) > 1;
 
 -- Now the data is ready for analysis.
---Test of changes
